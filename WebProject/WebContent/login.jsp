@@ -7,9 +7,6 @@
 <title>Login Page</title>
 </head>
 <body background="image.jpg" >
-
-
-
 <h2>Employee Login</h2>
 
 <form action="./login">
@@ -28,11 +25,6 @@
 <form action="./getdetail">
 <input type="submit" value="Get All Employees">
 </form>
-<form >
-
-</form>
-
-
 
 </body>
 </html>
